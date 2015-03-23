@@ -5,7 +5,7 @@ Input from cin and Output to cout.
 
 Config is in Header.h
 
-To qui,t write 'q'(Can be changed in config)
+To quit write 'q'(Can be changed in config)
 
 To get a result, write '=' after a calculation(Can be changed in config)
 
